@@ -4,7 +4,6 @@
 
 * informal techniques: overlapping concerns - satisfiable together or not?
 
-* heuristic detection: predetermined requirements and known conflicts 
+* heuristic detection: predetermined requirements and known conflicts
 
 * information requirements vs confidentiality requirements
-
