@@ -1,11 +1,11 @@
-# Conflict Resolution 
+# Conflict Resolution
 
 * Elicitation
 
-    *  explore counter measures 
+  * explore counter measures
 
-    *  compare preferred solutions
-    *  more focus groups and group sessions based on conflict
+  *  compare preferred solutions
+  *  more focus groups and group sessions based on conflict
 
 * do early - generate conflict resolutions before software starts
 
@@ -13,18 +13,18 @@
 
 * agile facilitates conflict resolution
 
-* integration of goals is difficult 
+* integration of goals is difficult
 
 * but balance - not too soon - doing conflict resolutions
 
 * alternative conflict resolutions - discuss with stakeholders
 
-*  appeal to authorities
+* appeal to authorities
 
 * what is really needed
 
 * Boundary conditions that can conflict
 
-* identify frequently used statements 
+* identify frequently used statements
 
-*  quality of resolutions - goal satisfaction
+* quality of resolutions - goal satisfaction
