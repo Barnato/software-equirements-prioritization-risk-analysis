@@ -7,3 +7,4 @@
 * heuristic detection: predetermined requirements and known conflicts
 
 * information requirements vs confidentiality requirements
+

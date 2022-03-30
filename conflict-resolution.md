@@ -1,4 +1,4 @@
-<!-- # Conflict Resolution -->
+# Conflict Resolution 
 
 * Elicitation
 
