@@ -1,2 +1,2 @@
 # software-equirements-prioritization-risk-analysis
-Risk Analysis, Assessment, and Prioritization looks at how you can manage conflicts at system levels, but it can also be applied to lower level assessments.  
+Risk Analysis, Assessment, and Prioritization looks at how you can manage conflicts at system levels, but it can also be applied to lower level assessments. How do you manage and document conflict, along with alternatives?  In analyzing alternatives, you must consider risks.  In this course, we'll look into how to analyze risk, evaluate risk, document risks, and use this information for prioritization of requirements.  Qualitative and Quantitative approaches will be covered.
