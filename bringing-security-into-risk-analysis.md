@@ -18,7 +18,7 @@ Karabacaka,*, Ibrahim Sogukpinarb
 
 * questions ask public opinion on factors that affect the consequences of the security breach 
 
-    [isram-diagram](/assets/isram-diagram.jpeg)
+    ![isram-diagram](/assets/isram-diagram.jpeg)
 
 * Example - risk arising from computer virus
 
