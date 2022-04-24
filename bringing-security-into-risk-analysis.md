@@ -24,5 +24,3 @@ Karabacaka,*, Ibrahim Sogukpinarb
 
 * probability of infection + consequences of infection
 
-
-
