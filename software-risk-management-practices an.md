@@ -28,10 +28,10 @@ _Top ten software risk items_
 
 Example:
 
-![risk-items](/assets/risk-items.png)
-
-  * Risk analysis and prioritization - Risk exposure quantity and for prioritization cost/benefit analysis is often performed
-  * risk resolution - can includes simulation and prototyping
+![risk-items](assets/risk-items.png)
+* Risk analysis and prioritization - Risk exposure quantity and for prioritization cost/benefit analysis is often performed
+* risk resolution - can includes simulation and prototyping
+## Conclusions 
 
 * focus on critical success factors, projects fail because of focus on wrong thing - boiler plate documents, exploring peripheral but intriguing technical issues, and playing politics
 
