@@ -1,6 +1,6 @@
 # Conflict Resolution Summary
 
-* Conflict resolution begins when you identify *overlapping* statements.
+* Conflict resolution begins when you identify *overlapping* statements
 
 * Don't have to address every conflict immediately.
 
