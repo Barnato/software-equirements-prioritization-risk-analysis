@@ -6,7 +6,7 @@ Review full article here [Risk-Driven Revision of Requirements Models](https://w
 
 * <ins>Case study: London ambulance services:</ins>
 
-![london_ambulance](/assets/london_ambulnce.png)
+![London ambulance](/assets/london_ambulnce.png)
 
 * Ambulance must intervene with 11 minutes of being reported
 

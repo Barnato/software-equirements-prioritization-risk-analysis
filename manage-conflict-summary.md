@@ -11,5 +11,5 @@
 * Don't need to address conflicts immediately, gather info first. Don't leave to the end of the project. It is a balance.
 * Clarify statements with target/source. Who is doing what in the process.
 * Weaken conflicting statements (more likely with low priority statements).
-* Conflicting and non conflicting statement: Si,j = 0; Si,j = 1
-* evaluation criteria for preferred resolution is solving other conflicts/risks
+* Conflicting and non conflicting statement: Si,j = 0; Si,j = 1.
+* evaluation criteria for preferred resolution is solving other conflicts/risks.
