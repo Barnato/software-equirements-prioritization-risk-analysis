@@ -14,8 +14,8 @@
 
 * for each identified risk need conditions/events for occurrence
 
-* evaluation of choosing countermeasures
+* evaluation of choosing countermeasures:
 
-* contribution to resolution of other risks
+    * contribution to resolution of other risks
 
-* cost effectiveness
+    * cost effectiveness
